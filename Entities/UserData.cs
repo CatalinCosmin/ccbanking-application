@@ -43,7 +43,7 @@ namespace CCBANKING.Entities
     }
     public static class UserData
     {
-        public static readonly string db = "Host=tai.db.elephantsql.com;Username=snmzecak;Password=1R_9bwKmZOJ8S9MNJLclXrdjZWThB7Sp;Database=snmzecak"; // database to connect to
+        public static readonly string db = "insert_database_here"; // database to connect to
         public static User user; // user data
         public static List<Card> cards;
         public static Card SelectedCard;
